@@ -12,3 +12,9 @@ Stay connected with the LightSeek Foundation:
 - 🤗 : https://huggingface.co/lightseekorg
 
 Follow us for updates on open research, infrastructure, and open-source AI systems.
+
+## Contact Us
+
+We welcome collaboration from researchers, engineers, and organizations. For partnerships, research collaboration, sponsorship, or general inquiries:
+
+📧 contact@lightseek.org
