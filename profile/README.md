@@ -16,7 +16,7 @@ Stay connected with the LightSeek Foundation:
 
 - 🌐 : https://lightseek.org
 - 💼 : https://www.linkedin.com/company/lightseek
-- 𝕏 : https://x.com/lightseekorg
+- 🐦 : https://x.com/lightseekorg
 - 🤗 : https://huggingface.co/lightseekorg
 
 Follow us for updates on open research, infrastructure, and open-source AI systems.
