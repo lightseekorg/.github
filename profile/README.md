@@ -4,7 +4,7 @@
 
 ## Ecosystem Projects
 
-**[smg](https://github.com/lightseekorg/smg)**: Shepherd Model Gateway is a high-performance inference gateway for production LLM deployments.
+**[SMG](https://github.com/lightseekorg/smg)**: Shepherd Model Gateway is a high-performance inference gateway for production LLM deployments.
 
 **[TorchSpec](https://github.com/torchspec-project/TorchSpec)**: TorchSpec is a PyTorch native library for training speculative decoding models.
 
