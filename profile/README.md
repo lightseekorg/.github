@@ -4,20 +4,23 @@
 
 ## Ecosystem Projects
 
-- [smg](https://github.com/lightseekorg/smg): Shepherd Model Gateway is a high-performance inference gateway for production LLM deployments.
+**[smg](https://github.com/lightseekorg/smg)**: Shepherd Model Gateway is a high-performance inference gateway for production LLM deployments.
 
-- [TorchSpec](https://github.com/torchspec-project/TorchSpec): TorchSpec is a PyTorch native library for training speculative decoding models.
+**[TorchSpec](https://github.com/torchspec-project/TorchSpec)**: TorchSpec is a PyTorch native library for training speculative decoding models.
 
-- [Mooncake](https://github.com/kvcache-ai/Mooncake) (Partnership): Mooncake is a transfer engine designed for KV cache management in production LLM serving.
+**[Mooncake](https://github.com/kvcache-ai/Mooncake) (Partnership)**: Mooncake is a transfer engine designed for KV cache management in production LLM serving.
 
 ## Follow Us
 
 Stay connected with the LightSeek Foundation:
 
-- 🌐 : https://lightseek.org
-- 💼 : https://www.linkedin.com/company/lightseek
-- 🐦 : https://x.com/lightseekorg
-- 🤗 : https://huggingface.co/lightseekorg
+🌐 https://lightseek.org
+
+💼 https://www.linkedin.com/company/lightseek
+
+🐦 https://x.com/lightseekorg
+
+🤗 https://huggingface.co/lightseekorg
 
 Follow us for updates on open research, infrastructure, and open-source AI systems.
 
