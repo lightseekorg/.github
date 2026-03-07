@@ -16,7 +16,7 @@ Stay connected with the LightSeek Foundation:
 
 🌐 https://lightseek.org
 
-💼 https://www.linkedin.com/company/lightseek
+💼 https://linkedin.com/company/lightseek
 
 🐦 https://x.com/lightseekorg
 
