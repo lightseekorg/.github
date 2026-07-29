@@ -18,7 +18,7 @@ Stay connected with the LightSeek Foundation. Follow us for the latest updates o
 
 <a href="https://lightseek.org/blog"><img src="https://lightseek.org/favicon.ico" alt="icon" style="height: 16px; vertical-align: center;"> https://lightseek.org/blog
 
-<a href="https://lnkd.lightseek.org"><img src="https://linkedin.com/favicon.ico" alt="icon" style="height: 16px; vertical-align: center;"> https://lnkd.lightseek.org
+<a href="https://lnkd.lightseek.org"><img src="linkedin.ico" alt="icon" style="height: 16px; vertical-align: center;"> https://lnkd.lightseek.org
 
 <a href="https://x.com/lightseekorg"><img src="https://x.com/favicon.ico" alt="icon" style="height: 16px; vertical-align: center;"> https://x.com/lightseekorg
 
