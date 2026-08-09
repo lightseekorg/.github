@@ -12,6 +12,10 @@ LightSeek Foundation is a [Silver Member](https://pytorch.org/members) of the Py
 
 **[TokenSpeed](https://github.com/lightseekorg/tokenspeed)**: TokenSpeed is a speed-of-light LLM inference engine.
 
+## Sponsors and Partners
+
+LightSeek's work is advanced by the support of [sponsors and partners](https://lightseek.org/sponsors) across the AI ecosystem.
+
 ## Follow Us
 
 Stay connected with the LightSeek Foundation. Follow us for the latest updates on open research, infrastructure, and open-source AI systems.
