@@ -4,6 +4,12 @@
 
 LightSeek Foundation is a [Silver Member](https://pytorch.org/members) of the PyTorch Foundation.
 
+## Governance and Disclaimer
+
+**[Governance](https://lightseek.org/governance)**: LightSeek Foundation is a 501(c)(3) nonprofit governed by a one-director-one-vote board, while project maintainers make day-to-day technical decisions through open repository processes.
+
+**[Disclaimer](https://lightseek.org/disclaimer)**: LightSeek Foundation and its projects operate on a **vendor-neutral, inclusive basis**, treating all ecosystem participants **equally** without implying affiliation, endorsement, exclusivity, or preferential treatment.
+
 ## Ecosystem Projects
 
 **[SMG](https://github.com/lightseekorg/smg)**: Shepherd Model Gateway is a high-performance inference gateway for production LLM deployments.
